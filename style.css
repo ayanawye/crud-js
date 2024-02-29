@@ -1,0 +1,9 @@
+table {
+    width: 100%;
+}
+.post_form{
+    display: none;
+}
+.active{
+    display: block;
+}

@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "id": 36,
+      "name": "dfghj",
+      "gender": "fghj",
+      "age": "ghj"
+    },
+    {
+      "id": 43,
+      "name": "dfghj",
+      "gender": "fghjk",
+      "age": "fghjk"
+    },
+    {
+      "id": 49,
+      "name": "vghbjkl",
+      "gender": "ghjkl",
+      "age": "vgbhjnkml"
+    }
+  ],
+  "mentors": [
+    {
+      "id": "1",
+      "name": "Ayana",
+      "gender": "female"
+    },
+    {
+      "id": "2",
+      "name": "Daniel",
+      "gender": "male"
+    }
+  ]
+}
