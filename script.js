@@ -76,3 +76,5 @@ addStudentBtn.addEventListener('click', (event) => {
   event.preventDefault();
   visibleAddForm()
 })
+
+console.log("new log 2")
